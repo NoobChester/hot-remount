@@ -1,6 +1,6 @@
 {
   "name": "Hot remount (FORKED)",
-  "description": "New command to track changes in the plugin and automatic remount it",
+  "description": "Use github.com/x6r/remount or github.com/pythonmcpi/remount",
   "author": "Xinos",
   "version": "1.0.0",
   "license": "MIT"
